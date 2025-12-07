@@ -18,3 +18,4 @@ python3 viewStitchFile.py [.st file]
 
 [Polyscope](https://polyscope.run/) is used to render the output.
 
+<img width="808" height="689" alt="Screenshot 2025-12-07 at 3 53 22 PM" src="https://github.com/user-attachments/assets/f6cfa2ce-7dbf-4c53-8d9a-2431938023fd" />
